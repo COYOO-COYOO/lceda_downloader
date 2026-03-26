@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "ec85e575ec923bf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2357040c6ac9d6fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dbbeb15b76ad0e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d91ffd975bbc18d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3775c90349325a1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ac0497cf3a055a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6c5a37bc7f80c5ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4935b5d853869dc5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f0065164e41663e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3f65184270ab792",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e37ca273757a89d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Arduino/02 STM32.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "02 STM32 的反向链接列表"
+            }
+          },
+          {
+            "id": "49ea2e5e77c74a8f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Arduino/02 STM32.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "02 STM32 的出链列表"
+            }
+          },
+          {
+            "id": "bfb00cbc16a8b55e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "862b38c5e6efe53b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "README 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-importer:Open Importer": false,
+      "spreadsheets:New Spreadsheet": false,
+      "pkmer:Open Pkmer Market": false
+    }
+  },
+  "active": "8dbbeb15b76ad0e4",
+  "lastOpenFiles": [
+    "README/image-20263262938108-20263263016630.png",
+    "图片居中设置.exe",
+    "README/image-20263262938108.png",
+    "README/image-20263262914155.png",
+    "README/image-20263262834872.png",
+    "README/image-20263262827528.png",
+    "README",
+    "Pasted image 20260326172818.png",
+    "使用说明_V1.0.md",
+    "使用说明_V1.0.md.bak",
+    "Voltage_ESP32_PCB/History/Volrage_Bluetooth.~(3).PcbDoc.Zip",
+    "Voltage_ESP32_PCB/History/Volrage_Bluetooth.~(2).PcbLib.Zip",
+    "Voltage_ESP32_PCB/History/Volrage_Bluetooth.~(2).PcbDoc.Zip",
+    "Voltage_ESP32_PCB/History/Volrage_Bluetooth.~(1).PcbLib.Zip",
+    "Voltage_ESP32_PCB/History/Volrage_Bluetooth.~(1).PcbDoc.Zip",
+    "Voltage_ESP32_PCB/Voltage_Acquisition_Bluetooth.PrjPcb",
+    "Voltage_ESP32_PCB/Volrage_Bluetooth.PcbLib",
+    "ESP32_H2_BLE/ESP32 H2 BLE记录.md",
+    "使用说明_V1.0/image-20263161829225.png",
+    "使用说明_V1.0/image-20263161359710.png",
+    "ESP32_H2_BLE/ESP32 H2 BLE记录/image-20241113912897.png",
+    "ESP32_H2_BLE/ESP32 H2 BLE记录/image-20241113912897-20241113321415.png",
+    "ESP32_H2_BLE/ESP32 H2 BLE记录/image-202411135112997.png",
+    "esp32-h2-ble/ESP32_H2_BLE/ESP32 H2 BLE记录.md",
+    "Arduino/02 STM32.md",
+    "项目实战/02 基于Arduino-ESP32的智能照明系统.md",
+    "项目实战/04 基于Arduino-ESP32的千层灯设计.md",
+    "项目实战/05基于Arduino-ESP32的脉搏心率采集器.md",
+    "系统开发/Git 操作教程.md",
+    "Arduino/01 ESP32.md",
+    "Arduino/04 Arduino Uno.md",
+    "Arduino/LVGL.md",
+    "硬件设计/01硬件基础/04二极管.md",
+    "系统开发/PyQt6.md",
+    "系统开发/Home Assistant.md",
+    "项目实战/01 基于Arduino-ESP32的智能空气净化器.md",
+    "硬件设计/AD常用操作.md",
+    "项目实战/07光伏追踪系统.md",
+    "系统开发/opencv-python.md",
+    "系统开发/SU-03T开发.md",
+    "系统开发/立创·ESP32S3R8N8.md",
+    "系统开发/BingPi-M2.md",
+    "硬件设计/Cadence.md"
+  ]
+}
